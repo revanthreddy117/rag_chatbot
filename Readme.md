@@ -32,7 +32,7 @@ Avoid long wait times for common questions.
 
  Interactive API Docs: Comes with a Swagger UI for easy testing and exploration of the API endpoints.
 
-🛠️ Tech Stack
+Tech Stack
 Component
 
 Technology
@@ -103,7 +103,7 @@ JSON
 }
 Click the Execute button and view the response below.
 
-🔐 Environment Variables
+Environment Variables
 To run this project locally or deploy your own instance, you need to set the following environment variables. If using Hugging Face Spaces, set these in the Repository secrets section.
 
 Variable
