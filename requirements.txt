@@ -1,0 +1,12 @@
+langchain
+langgraph
+langchain-openai
+langchain-google-genai
+langchain-community
+langchain-pinecone
+pinecone-client
+tiktoken
+python-docx
+gradio
+fastapi
+uvicorn
